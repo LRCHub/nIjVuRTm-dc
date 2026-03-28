@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "シー・ウィル・ビー・ラヴド",
+  "base_artist": "マルーン5",
+  "createdAt": "2026-03-28T05:55:56.650541Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "She Will Be Loved",
+      "artist": "Maroon 5",
+      "has_synced": false,
+      "path": "select/pl_01_She_Will_Be_Loved_Maroon_5.txt"
+    }
+  ]
+}
